@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+PyTorch  # OR pytorch, depending on which framework you used
+torchvision  # If using PyTorch
+jupyter
+notebook
+seaborn  # Optional, if additional visualizations are used
