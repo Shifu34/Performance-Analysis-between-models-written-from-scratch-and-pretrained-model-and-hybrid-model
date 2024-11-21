@@ -1,0 +1,2 @@
+# Performance-Analysis-between-models-written-from-scratch-and-pretrained-model-and-hybrid-model
+This repository implements VGG and ResNet architectures from scratch using PyTorch, trained on the CIFAR-10 dataset. Pretrained versions will be fine-tuned, and a hybrid model combining VGG and ResNet will be developed. The performance of custom, pretrained, and hybrid models will be compared to identify the most effective for classification.
